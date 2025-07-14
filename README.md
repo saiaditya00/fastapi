@@ -2,7 +2,7 @@
 
 A simple yet functional real-time chat application built with FastAPI and WebSockets. Each client receives a unique ID, messages are broadcast to all connected users, and notifications appear when users join or leave. The app includes interactive API docs and a basic responsive chat UI.
 
-![Chat screenshot]<img width="960" height="445" alt="image" src="https://github.com/user-attachments/assets/9eaa9858-5122-4b03-bc26-049cfbbe87ec" />
+<img width="960" height="445" alt="image" src="https://github.com/user-attachments/assets/9eaa9858-5122-4b03-bc26-049cfbbe87ec" />
 
 ---
 
