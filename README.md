@@ -130,7 +130,7 @@ This project is open-source under the **MIT License**. *(Include `LICENSE` file 
 
 ## 📧 Contact
 
-For feedback or questions, reach me at: **[your-email@example.com]**
+For feedback or questions, reach me at: kamarsuaditya@gmail.com 
 
 ---
 
